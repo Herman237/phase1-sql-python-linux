@@ -1,0 +1,11 @@
+plan_id,plan_name,monthly_fee,data_limit
+1,Basic,5000,1000.0
+2,Premium,10000,5000.0
+3,Unlimited,20000,
+4,Night Plan,3000,2000.0
+5,Daily Plan,100,100.0
+6,Social Media,1500,500.0
+7,YouTube,2000,2000.0
+8,Family Plan,15000,10000.0
+9,Student Plan,4000,3000.0
+10,Business Plan,25000,20000.0
