@@ -29,5 +29,5 @@ This analysis will feed into a PowerPoint dashboard summarizing key telecom metr
 
 ---
 
-👤 **Author:** Your Name  
+👤 **Author:** Herman MOUGNOL A TIAH  
 📅 **Date:** November 2025
